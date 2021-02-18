@@ -2,7 +2,7 @@
 //  Persistence.swift
 //  Shared
 //
-//  Created by mk on 2021/02/15.
+//  Created by mk on 2021/02/18.
 //
 
 import CoreData
@@ -31,7 +31,7 @@ struct PersistenceController {
     let container: NSPersistentCloudKitContainer
 
     init(inMemory: Bool = false) {
-        container = NSPersistentCloudKitContainer(name: "iOS")
+        container = NSPersistentCloudKitContainer(name: "Deadlock_Club")
         if inMemory {
             container.persistentStoreDescriptions.first!.url = URL(fileURLWithPath: "/dev/null")
         }

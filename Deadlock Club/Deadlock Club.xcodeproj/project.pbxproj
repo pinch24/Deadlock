@@ -7,79 +7,79 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4D00B03A25D97EE600559D80 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B03925D97EE600559D80 /* Tests_iOS.swift */; };
-		4D00B04525D97EE600559D80 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B04425D97EE600559D80 /* Tests_macOS.swift */; };
-		4D00B04725D97EE600559D80 /* iOS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01B25D97EE600559D80 /* iOS.xcdatamodeld */; };
-		4D00B04825D97EE600559D80 /* iOS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01B25D97EE600559D80 /* iOS.xcdatamodeld */; };
-		4D00B04925D97EE600559D80 /* iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01D25D97EE600559D80 /* iOSApp.swift */; };
-		4D00B04A25D97EE600559D80 /* iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01D25D97EE600559D80 /* iOSApp.swift */; };
-		4D00B04B25D97EE600559D80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01E25D97EE600559D80 /* ContentView.swift */; };
-		4D00B04C25D97EE600559D80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01E25D97EE600559D80 /* ContentView.swift */; };
-		4D00B04D25D97EE600559D80 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01F25D97EE600559D80 /* Persistence.swift */; };
-		4D00B04E25D97EE600559D80 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D00B01F25D97EE600559D80 /* Persistence.swift */; };
-		4D00B04F25D97EE600559D80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D00B02025D97EE600559D80 /* Assets.xcassets */; };
-		4D00B05025D97EE600559D80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D00B02025D97EE600559D80 /* Assets.xcassets */; };
+		4D336D3625DE9FE300D6E13B /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D3525DE9FE300D6E13B /* Tests_iOS.swift */; };
+		4D336D4125DE9FE300D6E13B /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D4025DE9FE300D6E13B /* Tests_macOS.swift */; };
+		4D336D4325DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1725DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld */; };
+		4D336D4425DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1725DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld */; };
+		4D336D4525DE9FE300D6E13B /* Deadlock_ClubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1925DE9FE300D6E13B /* Deadlock_ClubApp.swift */; };
+		4D336D4625DE9FE300D6E13B /* Deadlock_ClubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1925DE9FE300D6E13B /* Deadlock_ClubApp.swift */; };
+		4D336D4725DE9FE300D6E13B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1A25DE9FE300D6E13B /* ContentView.swift */; };
+		4D336D4825DE9FE300D6E13B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1A25DE9FE300D6E13B /* ContentView.swift */; };
+		4D336D4925DE9FE300D6E13B /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1B25DE9FE300D6E13B /* Persistence.swift */; };
+		4D336D4A25DE9FE300D6E13B /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D336D1B25DE9FE300D6E13B /* Persistence.swift */; };
+		4D336D4B25DE9FE300D6E13B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D336D1C25DE9FE300D6E13B /* Assets.xcassets */; };
+		4D336D4C25DE9FE300D6E13B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D336D1C25DE9FE300D6E13B /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4D00B03625D97EE600559D80 /* PBXContainerItemProxy */ = {
+		4D336D3225DE9FE300D6E13B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4D00B01625D97EE600559D80 /* Project object */;
+			containerPortal = 4D336D1225DE9FE300D6E13B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4D00B02425D97EE600559D80;
-			remoteInfo = "iOS (iOS)";
+			remoteGlobalIDString = 4D336D2025DE9FE300D6E13B;
+			remoteInfo = "Deadlock Club (iOS)";
 		};
-		4D00B04125D97EE600559D80 /* PBXContainerItemProxy */ = {
+		4D336D3D25DE9FE300D6E13B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4D00B01625D97EE600559D80 /* Project object */;
+			containerPortal = 4D336D1225DE9FE300D6E13B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4D00B02C25D97EE600559D80;
-			remoteInfo = "iOS (macOS)";
+			remoteGlobalIDString = 4D336D2825DE9FE300D6E13B;
+			remoteInfo = "Deadlock Club (macOS)";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4D00B01C25D97EE600559D80 /* Shared.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Shared.xcdatamodel; sourceTree = "<group>"; };
-		4D00B01D25D97EE600559D80 /* iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSApp.swift; sourceTree = "<group>"; };
-		4D00B01E25D97EE600559D80 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		4D00B01F25D97EE600559D80 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
-		4D00B02025D97EE600559D80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4D00B02525D97EE600559D80 /* iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D00B02825D97EE600559D80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4D00B02D25D97EE600559D80 /* iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D00B02F25D97EE600559D80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4D00B03025D97EE600559D80 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
-		4D00B03525D97EE600559D80 /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D00B03925D97EE600559D80 /* Tests_iOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_iOS.swift; sourceTree = "<group>"; };
-		4D00B03B25D97EE600559D80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4D00B04025D97EE600559D80 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D00B04425D97EE600559D80 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
-		4D00B04625D97EE600559D80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D336D1825DE9FE300D6E13B /* Shared.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Shared.xcdatamodel; sourceTree = "<group>"; };
+		4D336D1925DE9FE300D6E13B /* Deadlock_ClubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deadlock_ClubApp.swift; sourceTree = "<group>"; };
+		4D336D1A25DE9FE300D6E13B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4D336D1B25DE9FE300D6E13B /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		4D336D1C25DE9FE300D6E13B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4D336D2125DE9FE300D6E13B /* Deadlock Club.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Deadlock Club.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D336D2425DE9FE300D6E13B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D336D2925DE9FE300D6E13B /* Deadlock Club.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Deadlock Club.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D336D2B25DE9FE300D6E13B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D336D2C25DE9FE300D6E13B /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		4D336D3125DE9FE300D6E13B /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D336D3525DE9FE300D6E13B /* Tests_iOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_iOS.swift; sourceTree = "<group>"; };
+		4D336D3725DE9FE300D6E13B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D336D3C25DE9FE300D6E13B /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D336D4025DE9FE300D6E13B /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
+		4D336D4225DE9FE300D6E13B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4D00B02225D97EE600559D80 /* Frameworks */ = {
+		4D336D1E25DE9FE300D6E13B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B02A25D97EE600559D80 /* Frameworks */ = {
+		4D336D2625DE9FE300D6E13B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B03225D97EE600559D80 /* Frameworks */ = {
+		4D336D2E25DE9FE300D6E13B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B03D25D97EE600559D80 /* Frameworks */ = {
+		4D336D3925DE9FE300D6E13B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -89,72 +89,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4D00B01525D97EE600559D80 = {
+		4D336D1125DE9FE200D6E13B = {
 			isa = PBXGroup;
 			children = (
-				4D00B01A25D97EE600559D80 /* Shared */,
-				4D00B02725D97EE600559D80 /* iOS */,
-				4D00B02E25D97EE600559D80 /* macOS */,
-				4D00B03825D97EE600559D80 /* Tests iOS */,
-				4D00B04325D97EE600559D80 /* Tests macOS */,
-				4D00B02625D97EE600559D80 /* Products */,
+				4D336D1625DE9FE300D6E13B /* Shared */,
+				4D336D2325DE9FE300D6E13B /* iOS */,
+				4D336D2A25DE9FE300D6E13B /* macOS */,
+				4D336D3425DE9FE300D6E13B /* Tests iOS */,
+				4D336D3F25DE9FE300D6E13B /* Tests macOS */,
+				4D336D2225DE9FE300D6E13B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4D00B01A25D97EE600559D80 /* Shared */ = {
+		4D336D1625DE9FE300D6E13B /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				4D00B01D25D97EE600559D80 /* iOSApp.swift */,
-				4D00B01E25D97EE600559D80 /* ContentView.swift */,
-				4D00B01F25D97EE600559D80 /* Persistence.swift */,
-				4D00B02025D97EE600559D80 /* Assets.xcassets */,
-				4D00B01B25D97EE600559D80 /* iOS.xcdatamodeld */,
+				4D336D1925DE9FE300D6E13B /* Deadlock_ClubApp.swift */,
+				4D336D1A25DE9FE300D6E13B /* ContentView.swift */,
+				4D336D1B25DE9FE300D6E13B /* Persistence.swift */,
+				4D336D1C25DE9FE300D6E13B /* Assets.xcassets */,
+				4D336D1725DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		4D00B02625D97EE600559D80 /* Products */ = {
+		4D336D2225DE9FE300D6E13B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4D00B02525D97EE600559D80 /* iOS.app */,
-				4D00B02D25D97EE600559D80 /* iOS.app */,
-				4D00B03525D97EE600559D80 /* Tests iOS.xctest */,
-				4D00B04025D97EE600559D80 /* Tests macOS.xctest */,
+				4D336D2125DE9FE300D6E13B /* Deadlock Club.app */,
+				4D336D2925DE9FE300D6E13B /* Deadlock Club.app */,
+				4D336D3125DE9FE300D6E13B /* Tests iOS.xctest */,
+				4D336D3C25DE9FE300D6E13B /* Tests macOS.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4D00B02725D97EE600559D80 /* iOS */ = {
+		4D336D2325DE9FE300D6E13B /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				4D00B02825D97EE600559D80 /* Info.plist */,
+				4D336D2425DE9FE300D6E13B /* Info.plist */,
 			);
 			path = iOS;
 			sourceTree = "<group>";
 		};
-		4D00B02E25D97EE600559D80 /* macOS */ = {
+		4D336D2A25DE9FE300D6E13B /* macOS */ = {
 			isa = PBXGroup;
 			children = (
-				4D00B02F25D97EE600559D80 /* Info.plist */,
-				4D00B03025D97EE600559D80 /* macOS.entitlements */,
+				4D336D2B25DE9FE300D6E13B /* Info.plist */,
+				4D336D2C25DE9FE300D6E13B /* macOS.entitlements */,
 			);
 			path = macOS;
 			sourceTree = "<group>";
 		};
-		4D00B03825D97EE600559D80 /* Tests iOS */ = {
+		4D336D3425DE9FE300D6E13B /* Tests iOS */ = {
 			isa = PBXGroup;
 			children = (
-				4D00B03925D97EE600559D80 /* Tests_iOS.swift */,
-				4D00B03B25D97EE600559D80 /* Info.plist */,
+				4D336D3525DE9FE300D6E13B /* Tests_iOS.swift */,
+				4D336D3725DE9FE300D6E13B /* Info.plist */,
 			);
 			path = "Tests iOS";
 			sourceTree = "<group>";
 		};
-		4D00B04325D97EE600559D80 /* Tests macOS */ = {
+		4D336D3F25DE9FE300D6E13B /* Tests macOS */ = {
 			isa = PBXGroup;
 			children = (
-				4D00B04425D97EE600559D80 /* Tests_macOS.swift */,
-				4D00B04625D97EE600559D80 /* Info.plist */,
+				4D336D4025DE9FE300D6E13B /* Tests_macOS.swift */,
+				4D336D4225DE9FE300D6E13B /* Info.plist */,
 			);
 			path = "Tests macOS";
 			sourceTree = "<group>";
@@ -162,102 +162,102 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4D00B02425D97EE600559D80 /* iOS (iOS) */ = {
+		4D336D2025DE9FE300D6E13B /* Deadlock Club (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D00B05325D97EE600559D80 /* Build configuration list for PBXNativeTarget "iOS (iOS)" */;
+			buildConfigurationList = 4D336D4F25DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Deadlock Club (iOS)" */;
 			buildPhases = (
-				4D00B02125D97EE600559D80 /* Sources */,
-				4D00B02225D97EE600559D80 /* Frameworks */,
-				4D00B02325D97EE600559D80 /* Resources */,
+				4D336D1D25DE9FE300D6E13B /* Sources */,
+				4D336D1E25DE9FE300D6E13B /* Frameworks */,
+				4D336D1F25DE9FE300D6E13B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "iOS (iOS)";
-			productName = "iOS (iOS)";
-			productReference = 4D00B02525D97EE600559D80 /* iOS.app */;
+			name = "Deadlock Club (iOS)";
+			productName = "Deadlock Club (iOS)";
+			productReference = 4D336D2125DE9FE300D6E13B /* Deadlock Club.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4D00B02C25D97EE600559D80 /* iOS (macOS) */ = {
+		4D336D2825DE9FE300D6E13B /* Deadlock Club (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D00B05625D97EE600559D80 /* Build configuration list for PBXNativeTarget "iOS (macOS)" */;
+			buildConfigurationList = 4D336D5225DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Deadlock Club (macOS)" */;
 			buildPhases = (
-				4D00B02925D97EE600559D80 /* Sources */,
-				4D00B02A25D97EE600559D80 /* Frameworks */,
-				4D00B02B25D97EE600559D80 /* Resources */,
+				4D336D2525DE9FE300D6E13B /* Sources */,
+				4D336D2625DE9FE300D6E13B /* Frameworks */,
+				4D336D2725DE9FE300D6E13B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "iOS (macOS)";
-			productName = "iOS (macOS)";
-			productReference = 4D00B02D25D97EE600559D80 /* iOS.app */;
+			name = "Deadlock Club (macOS)";
+			productName = "Deadlock Club (macOS)";
+			productReference = 4D336D2925DE9FE300D6E13B /* Deadlock Club.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4D00B03425D97EE600559D80 /* Tests iOS */ = {
+		4D336D3025DE9FE300D6E13B /* Tests iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D00B05925D97EE600559D80 /* Build configuration list for PBXNativeTarget "Tests iOS" */;
+			buildConfigurationList = 4D336D5525DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Tests iOS" */;
 			buildPhases = (
-				4D00B03125D97EE600559D80 /* Sources */,
-				4D00B03225D97EE600559D80 /* Frameworks */,
-				4D00B03325D97EE600559D80 /* Resources */,
+				4D336D2D25DE9FE300D6E13B /* Sources */,
+				4D336D2E25DE9FE300D6E13B /* Frameworks */,
+				4D336D2F25DE9FE300D6E13B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4D00B03725D97EE600559D80 /* PBXTargetDependency */,
+				4D336D3325DE9FE300D6E13B /* PBXTargetDependency */,
 			);
 			name = "Tests iOS";
 			productName = "Tests iOS";
-			productReference = 4D00B03525D97EE600559D80 /* Tests iOS.xctest */;
+			productReference = 4D336D3125DE9FE300D6E13B /* Tests iOS.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
-		4D00B03F25D97EE600559D80 /* Tests macOS */ = {
+		4D336D3B25DE9FE300D6E13B /* Tests macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4D00B05C25D97EE600559D80 /* Build configuration list for PBXNativeTarget "Tests macOS" */;
+			buildConfigurationList = 4D336D5825DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Tests macOS" */;
 			buildPhases = (
-				4D00B03C25D97EE600559D80 /* Sources */,
-				4D00B03D25D97EE600559D80 /* Frameworks */,
-				4D00B03E25D97EE600559D80 /* Resources */,
+				4D336D3825DE9FE300D6E13B /* Sources */,
+				4D336D3925DE9FE300D6E13B /* Frameworks */,
+				4D336D3A25DE9FE300D6E13B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4D00B04225D97EE600559D80 /* PBXTargetDependency */,
+				4D336D3E25DE9FE300D6E13B /* PBXTargetDependency */,
 			);
 			name = "Tests macOS";
 			productName = "Tests macOS";
-			productReference = 4D00B04025D97EE600559D80 /* Tests macOS.xctest */;
+			productReference = 4D336D3C25DE9FE300D6E13B /* Tests macOS.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4D00B01625D97EE600559D80 /* Project object */ = {
+		4D336D1225DE9FE300D6E13B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					4D00B02425D97EE600559D80 = {
+					4D336D2025DE9FE300D6E13B = {
 						CreatedOnToolsVersion = 12.4;
 					};
-					4D00B02C25D97EE600559D80 = {
+					4D336D2825DE9FE300D6E13B = {
 						CreatedOnToolsVersion = 12.4;
 					};
-					4D00B03425D97EE600559D80 = {
+					4D336D3025DE9FE300D6E13B = {
 						CreatedOnToolsVersion = 12.4;
-						TestTargetID = 4D00B02425D97EE600559D80;
+						TestTargetID = 4D336D2025DE9FE300D6E13B;
 					};
-					4D00B03F25D97EE600559D80 = {
+					4D336D3B25DE9FE300D6E13B = {
 						CreatedOnToolsVersion = 12.4;
-						TestTargetID = 4D00B02C25D97EE600559D80;
+						TestTargetID = 4D336D2825DE9FE300D6E13B;
 					};
 				};
 			};
-			buildConfigurationList = 4D00B01925D97EE600559D80 /* Build configuration list for PBXProject "iOS" */;
+			buildConfigurationList = 4D336D1525DE9FE300D6E13B /* Build configuration list for PBXProject "Deadlock Club" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -265,44 +265,44 @@
 				en,
 				Base,
 			);
-			mainGroup = 4D00B01525D97EE600559D80;
-			productRefGroup = 4D00B02625D97EE600559D80 /* Products */;
+			mainGroup = 4D336D1125DE9FE200D6E13B;
+			productRefGroup = 4D336D2225DE9FE300D6E13B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4D00B02425D97EE600559D80 /* iOS (iOS) */,
-				4D00B02C25D97EE600559D80 /* iOS (macOS) */,
-				4D00B03425D97EE600559D80 /* Tests iOS */,
-				4D00B03F25D97EE600559D80 /* Tests macOS */,
+				4D336D2025DE9FE300D6E13B /* Deadlock Club (iOS) */,
+				4D336D2825DE9FE300D6E13B /* Deadlock Club (macOS) */,
+				4D336D3025DE9FE300D6E13B /* Tests iOS */,
+				4D336D3B25DE9FE300D6E13B /* Tests macOS */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4D00B02325D97EE600559D80 /* Resources */ = {
+		4D336D1F25DE9FE300D6E13B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D00B04F25D97EE600559D80 /* Assets.xcassets in Resources */,
+				4D336D4B25DE9FE300D6E13B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B02B25D97EE600559D80 /* Resources */ = {
+		4D336D2725DE9FE300D6E13B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D00B05025D97EE600559D80 /* Assets.xcassets in Resources */,
+				4D336D4C25DE9FE300D6E13B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B03325D97EE600559D80 /* Resources */ = {
+		4D336D2F25DE9FE300D6E13B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B03E25D97EE600559D80 /* Resources */ = {
+		4D336D3A25DE9FE300D6E13B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -312,61 +312,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4D00B02125D97EE600559D80 /* Sources */ = {
+		4D336D1D25DE9FE300D6E13B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D00B04725D97EE600559D80 /* iOS.xcdatamodeld in Sources */,
-				4D00B04D25D97EE600559D80 /* Persistence.swift in Sources */,
-				4D00B04925D97EE600559D80 /* iOSApp.swift in Sources */,
-				4D00B04B25D97EE600559D80 /* ContentView.swift in Sources */,
+				4D336D4525DE9FE300D6E13B /* Deadlock_ClubApp.swift in Sources */,
+				4D336D4925DE9FE300D6E13B /* Persistence.swift in Sources */,
+				4D336D4325DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld in Sources */,
+				4D336D4725DE9FE300D6E13B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B02925D97EE600559D80 /* Sources */ = {
+		4D336D2525DE9FE300D6E13B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D00B04825D97EE600559D80 /* iOS.xcdatamodeld in Sources */,
-				4D00B04E25D97EE600559D80 /* Persistence.swift in Sources */,
-				4D00B04A25D97EE600559D80 /* iOSApp.swift in Sources */,
-				4D00B04C25D97EE600559D80 /* ContentView.swift in Sources */,
+				4D336D4625DE9FE300D6E13B /* Deadlock_ClubApp.swift in Sources */,
+				4D336D4A25DE9FE300D6E13B /* Persistence.swift in Sources */,
+				4D336D4425DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld in Sources */,
+				4D336D4825DE9FE300D6E13B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B03125D97EE600559D80 /* Sources */ = {
+		4D336D2D25DE9FE300D6E13B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D00B03A25D97EE600559D80 /* Tests_iOS.swift in Sources */,
+				4D336D3625DE9FE300D6E13B /* Tests_iOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D00B03C25D97EE600559D80 /* Sources */ = {
+		4D336D3825DE9FE300D6E13B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D00B04525D97EE600559D80 /* Tests_macOS.swift in Sources */,
+				4D336D4125DE9FE300D6E13B /* Tests_macOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4D00B03725D97EE600559D80 /* PBXTargetDependency */ = {
+		4D336D3325DE9FE300D6E13B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4D00B02425D97EE600559D80 /* iOS (iOS) */;
-			targetProxy = 4D00B03625D97EE600559D80 /* PBXContainerItemProxy */;
+			target = 4D336D2025DE9FE300D6E13B /* Deadlock Club (iOS) */;
+			targetProxy = 4D336D3225DE9FE300D6E13B /* PBXContainerItemProxy */;
 		};
-		4D00B04225D97EE600559D80 /* PBXTargetDependency */ = {
+		4D336D3E25DE9FE300D6E13B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4D00B02C25D97EE600559D80 /* iOS (macOS) */;
-			targetProxy = 4D00B04125D97EE600559D80 /* PBXContainerItemProxy */;
+			target = 4D336D2825DE9FE300D6E13B /* Deadlock Club (macOS) */;
+			targetProxy = 4D336D3D25DE9FE300D6E13B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		4D00B05125D97EE600559D80 /* Debug */ = {
+		4D336D4D25DE9FE300D6E13B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -425,7 +425,7 @@
 			};
 			name = Debug;
 		};
-		4D00B05225D97EE600559D80 /* Release */ = {
+		4D336D4E25DE9FE300D6E13B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -477,12 +477,13 @@
 			};
 			name = Release;
 		};
-		4D00B05425D97EE600559D80 /* Debug */ = {
+		4D336D5025DE9FE300D6E13B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2021.02.18;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -490,20 +491,22 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.roughgears.deadlock.iOS;
-				PRODUCT_NAME = iOS;
+				MARKETING_VERSION = 0.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Deadlock-Club";
+				PRODUCT_NAME = "Deadlock Club";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4D00B05525D97EE600559D80 /* Release */ = {
+		4D336D5125DE9FE300D6E13B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2021.02.18;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -511,8 +514,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.roughgears.deadlock.iOS;
-				PRODUCT_NAME = iOS;
+				MARKETING_VERSION = 0.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Deadlock-Club";
+				PRODUCT_NAME = "Deadlock Club";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -520,7 +524,7 @@
 			};
 			name = Release;
 		};
-		4D00B05725D97EE600559D80 /* Debug */ = {
+		4D336D5325DE9FE300D6E13B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -535,14 +539,14 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = io.roughgears.deadlock.iOS;
-				PRODUCT_NAME = iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Deadlock-Club";
+				PRODUCT_NAME = "Deadlock Club";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		4D00B05825D97EE600559D80 /* Release */ = {
+		4D336D5425DE9FE300D6E13B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -557,14 +561,14 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = io.roughgears.deadlock.iOS;
-				PRODUCT_NAME = iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Deadlock-Club";
+				PRODUCT_NAME = "Deadlock Club";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
-		4D00B05A25D97EE600559D80 /* Debug */ = {
+		4D336D5625DE9FE300D6E13B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -576,16 +580,16 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.deadlock.Tests-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Tests-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "iOS (iOS)";
+				TEST_TARGET_NAME = "Deadlock Club (iOS)";
 			};
 			name = Debug;
 		};
-		4D00B05B25D97EE600559D80 /* Release */ = {
+		4D336D5725DE9FE300D6E13B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -597,17 +601,17 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.deadlock.Tests-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Tests-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "iOS (iOS)";
+				TEST_TARGET_NAME = "Deadlock Club (iOS)";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		4D00B05D25D97EE600559D80 /* Debug */ = {
+		4D336D5925DE9FE300D6E13B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -620,15 +624,15 @@
 					"@loader_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.deadlock.Tests-macOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Tests-macOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "iOS (macOS)";
+				TEST_TARGET_NAME = "Deadlock Club (macOS)";
 			};
 			name = Debug;
 		};
-		4D00B05E25D97EE600559D80 /* Release */ = {
+		4D336D5A25DE9FE300D6E13B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -641,58 +645,58 @@
 					"@loader_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.1;
-				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.deadlock.Tests-macOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "io.roughgears.Tests-macOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "iOS (macOS)";
+				TEST_TARGET_NAME = "Deadlock Club (macOS)";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4D00B01925D97EE600559D80 /* Build configuration list for PBXProject "iOS" */ = {
+		4D336D1525DE9FE300D6E13B /* Build configuration list for PBXProject "Deadlock Club" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D00B05125D97EE600559D80 /* Debug */,
-				4D00B05225D97EE600559D80 /* Release */,
+				4D336D4D25DE9FE300D6E13B /* Debug */,
+				4D336D4E25DE9FE300D6E13B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D00B05325D97EE600559D80 /* Build configuration list for PBXNativeTarget "iOS (iOS)" */ = {
+		4D336D4F25DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Deadlock Club (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D00B05425D97EE600559D80 /* Debug */,
-				4D00B05525D97EE600559D80 /* Release */,
+				4D336D5025DE9FE300D6E13B /* Debug */,
+				4D336D5125DE9FE300D6E13B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D00B05625D97EE600559D80 /* Build configuration list for PBXNativeTarget "iOS (macOS)" */ = {
+		4D336D5225DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Deadlock Club (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D00B05725D97EE600559D80 /* Debug */,
-				4D00B05825D97EE600559D80 /* Release */,
+				4D336D5325DE9FE300D6E13B /* Debug */,
+				4D336D5425DE9FE300D6E13B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D00B05925D97EE600559D80 /* Build configuration list for PBXNativeTarget "Tests iOS" */ = {
+		4D336D5525DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Tests iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D00B05A25D97EE600559D80 /* Debug */,
-				4D00B05B25D97EE600559D80 /* Release */,
+				4D336D5625DE9FE300D6E13B /* Debug */,
+				4D336D5725DE9FE300D6E13B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4D00B05C25D97EE600559D80 /* Build configuration list for PBXNativeTarget "Tests macOS" */ = {
+		4D336D5825DE9FE300D6E13B /* Build configuration list for PBXNativeTarget "Tests macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4D00B05D25D97EE600559D80 /* Debug */,
-				4D00B05E25D97EE600559D80 /* Release */,
+				4D336D5925DE9FE300D6E13B /* Debug */,
+				4D336D5A25DE9FE300D6E13B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -700,17 +704,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		4D00B01B25D97EE600559D80 /* iOS.xcdatamodeld */ = {
+		4D336D1725DE9FE300D6E13B /* Deadlock_Club.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				4D00B01C25D97EE600559D80 /* Shared.xcdatamodel */,
+				4D336D1825DE9FE300D6E13B /* Shared.xcdatamodel */,
 			);
-			currentVersion = 4D00B01C25D97EE600559D80 /* Shared.xcdatamodel */;
-			path = iOS.xcdatamodeld;
+			currentVersion = 4D336D1825DE9FE300D6E13B /* Shared.xcdatamodel */;
+			path = Deadlock_Club.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = 4D00B01625D97EE600559D80 /* Project object */;
+	rootObject = 4D336D1225DE9FE300D6E13B /* Project object */;
 }
